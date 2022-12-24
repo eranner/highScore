@@ -12,3 +12,11 @@ Tap on the 'bonus' button to add a bonus if it is earned
 To clear out the information, click on the 'Clear Scores" button and this will empty out localStorage.
 
 If you accidentally refresh browser, re-input the amount of teams you had and the information will be stored.
+
+## highSchore PHP
+The PHP version of High Score is much simpler. You input your team names on the first page and all of your team boxes are generated on the next page.
+Instead of the 'plus' and 'minus' buttons, you instead enter the amount in the provided form and the 'update score' button to add the previous number to the score.
+
+If a mistake is made, enter a negative number to bring the score back to where it should be.
+
+To clear the scores out, tap the 'clear all scores' button.
